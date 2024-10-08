@@ -2,7 +2,7 @@
 
 در این پروژه، توسط الگوریتم بهینه سازی جستجوی ترانزیت یا Transit Search Optimization 2022 مقدار K در روش K-Nearest Neighbours بهینه سازی می شود
 
-الگوریتم فراابتکاری Transit Seaarch در مجله بسیار معتبر Results in Control and Optimization چاپ شده است
+الگوریتم فراابتکاری Transit Search در مجله بسیار معتبر Results in Control and Optimization چاپ شده است
 
 این پروژه، از نوع طبقه بندی است و داده های شدت تصادفات کشور آمریکا برای مدلسازی انتخاب شده است
 
